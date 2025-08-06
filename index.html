@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title data-key="title">My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1 data-key="name">Chloé Alexandre</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html" data-key="nav_home">Home</a></li>
+                <li><a href="about.html" data-key="nav_about">About</a></li>
+                <li><a href="index.html" data-key="nav_projects">Projects</a></li>
+                <li><a href="index.html" data-key="nav_contact">Contact</a></li>
+            </ul>
+            <div class="lang-switcher">
+                <button onclick="changeLanguage('en')" class="lang-btn active" data-lang="en">EN</button>
+                <button onclick="changeLanguage('fr')" class="lang-btn" data-lang="fr">FR</button>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h2 data-key="welcome">Welcome to My Portfolio</h2>
+            <p data-key="intro">IT Student & Freelance Developer</p>
+        </section>
+        <section class="preview">
+            <div class="preview-card">
+                <h3 data-key="about_preview">About Me</h3>
+                <p data-key="about_short">I am a passionate IT student and freelance developer.</p>
+                <a href="about.html" class="btn" data-key="learn_more">Learn More</a>
+            </div>
+            <div class="preview-card">
+                <h3 data-key="projects_preview">Projects</h3>
+                <p data-key="projects_short">Check out my latest projects.</p>
+                <a href="projects.html" class="btn" data-key="view_projects">View Projects</a>
+            </div>
+            <div class="preview-card">
+                <h3 data-key="contact_preview">Get In Touch</h3>
+                <p data-key="contact_short">Let's work together!</p>
+                <a href="contact.html" class="btn" data-key="contact_me">Contact Me</a>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p data-key="copyright">&copy; 2025 Chloé Alexandre</p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
