@@ -16,7 +16,7 @@ async function loadTranslations(lang) {
 
 // Apply translations to the page
 function applyTranslations(lang) {
-    const elements = document.querySelectorAll('data-key');
+    const elements = document.querySelectorAll('[data-key]');
     const langData = translations[lang];
 
     if (!langData) {
