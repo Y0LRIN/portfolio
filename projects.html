@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" data-lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title data-key="projects_title">Projects - My Portfolio</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header>
+            <h1 data-key="name">Chloé Alexandre</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html" data-key="nav_home">Home</a></li>
+                    <li><a href="about.html" data-key="nav_about">About</a></li>
+                    <li><a href="index.html" data-key="nav_projects">Projects</a></li>
+                    <li><a href="index.html" data-key="nav_contact">Contact</a></li>
+                </ul>
+                <div class="lang-switcher">
+                    <button onclick="changeLanguage('en')" class="lang-btn active" data-lang="en">EN</button>
+                    <button onclick="changeLanguage('fr')" class="lang-btn" data-lang="fr">FR</button>
+                </div>
+            </nav>
+        </header>
+        <main>
+            <section class="projects">
+                <h2 data-key="my_projects">My Projects</h2>
+                <div class="projects-grid">
+                    <div class="project-card">
+                        <h3 data-key="project1_title">GBack</h3>
+                        <p data-key="project1_description">A lightweight CLI backup utility built for Linux.</p>
+                        <div class="project-links">
+                            <a href="#" class="btn" data-key="view_project">View Project</a>
+                            <a href="#" class="btn btn-secondary" data-key="view_code">View Code</a>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <h3 data-key="project2_title">Otome Engine</h3>
+                        <p data-key="project2_description">A visual novel engine built in Java with flexibility in mind.</p>
+                        <div class="project-links">
+                            <a href="#" class="btn" data-key="view_project">View Project</a>
+                            <a href="#" class="btn btn-secondary" data-key="view_code">View Code</a>
+                        </div>
+                    </div>
+                    <div class="project-card">
+                        <h3 data-key="project3_title">Restaurant Website</h3>
+                        <p data-key="project3_description">A responsive website for a local restaurant, showcasing menu, location, and online reservation features.</p>
+                        <div class="project-links">
+                            <a href="#" class="btn" data-key="view_project">View Project</a>
+                            <a href="#" class="btn btn-secondary" data-key="view_code">View Code</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <footer>
+            <p data-key="copyright">&copy; 2025 Chloé Alexandre</p>
+        </footer>
+        <script src="scripts.js"></script>
+    </body>
+</html>
