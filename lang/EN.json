@@ -28,11 +28,11 @@
     "projects_title": "Projects - Chloé Alexandre",
     "my_projects": "My Projects",
     "project1_title": "GBack",
-    "project1_description": "A lightweight command-line backup utility built for Linux systems. Features automated backup scheduling, compression options, and incremental backup support for efficient file management.",
+    "project1_description": "A lightweight command-line backup utility built for Linux systems. Features automated backup scheduling, encryption options, and incremental backup support for efficient file management.",
     "project2_title": "WIP - Otome Engine",
     "project2_description": "A flexible visual novel engine developed in Java, designed for creating interactive storytelling experiences. Includes character management, branching narratives, and save/load functionality.",
     "project3_title": "WIP - Restaurant Website",
-    "project3_description": "A fully responsive website for a local restaurant featuring modern design, interactive menu display, location mapping, and integrated contact forms for customer inquiries.",
+    "project3_description": "A fully responsive website for a local restaurant featuring modern design, interactive menu display, location mapping, reservations, and integrated contact forms for customer inquiries.",
     "view_project": "View Project",
     "view_code": "View Code",
     
