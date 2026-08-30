@@ -29,10 +29,8 @@
   "my_projects": "Mes Projets",
   "project1_title": "GBack",
   "project1_description": "Un utilitaire de sauvegarde en ligne de commande léger conçu pour les systèmes Linux. Dispose de la planification automatique des sauvegardes, d'options de chiffrement et du support de sauvegarde incrémentale pour une gestion efficace des fichiers.",
-  "project2_title": "WIP - Otome Engine",
-  "project2_description": "Un moteur de visual novel flexible développé en Java, conçu pour créer des expériences narratives interactives. Inclut la gestion des personnages, les récits à embranchements et la fonctionnalité de sauvegarde/chargement.",
-  "project3_title": "WIP - Site Web de Restaurant",
-  "project3_description": "Un site web entièrement responsive pour un restaurant local avec un design moderne, affichage de menu interactif, cartographie de localisation, réservations et formulaires de contact intégrés pour les demandes clients.",
+  "project2_title": "T-Alaize",
+  "project2_description": "Simple site statique pour un projet étudiant destiné à devenir une marque de mode. Le site existe pour des besoins de communication basiques et pour évaluer les besoins des clients.",
   "view_project": "Voir le projet",
   "view_code": "Voir le code",
   

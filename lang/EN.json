@@ -29,10 +29,8 @@
     "my_projects": "My Projects",
     "project1_title": "GBack",
     "project1_description": "A lightweight CLI backup utility built for Linux systems. Features automated backup scheduling, encryption options, and incremental backup support for efficient file management.",
-    "project2_title": "WIP - Otome Engine",
-    "project2_description": "A flexible visual novel engine developed in Java, designed for creating interactive storytelling experiences. Includes character management, branching narratives, and save/load functionality.",
-    "project3_title": "WIP - Restaurant Website",
-    "project3_description": "A fully responsive website for a local restaurant featuring modern design, interactive menu display, location mapping, reservations, and integrated contact forms for customer inquiries.",
+    "project2_title": "T-Alaize",
+    "project2_description": "Small static site for a student project, meant to become a fashion brand. The site is here for basic communication and to evaluate the needs of future customers.",
     "view_project": "View Project",
     "view_code": "View Code",
     
